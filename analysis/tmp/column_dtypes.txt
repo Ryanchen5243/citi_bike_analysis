@@ -1,0 +1,135 @@
+nyc_files
+('tripduration', 'BIGINT')
+[2013, 2014, 2015, 2016, 2017, 2018, 2019]
+('starttime', 'VARCHAR')
+[2013, 2014, 2015, 2016, 2017, 2018, 2019]
+('stoptime', 'VARCHAR')
+[2013, 2014, 2015, 2016, 2017, 2018, 2019]
+('start station id', 'BIGINT')
+[2013, 2014, 2015, 2016, 2017]
+('start station name', 'VARCHAR')
+[2013, 2014, 2015, 2016, 2017, 2018, 2019]
+('start station latitude', 'DOUBLE')
+[2013, 2014, 2015, 2016, 2017, 2018, 2019]
+('start station longitude', 'DOUBLE')
+[2013, 2014, 2015, 2016, 2017, 2018, 2019]
+('end station id', 'DOUBLE')
+[2013, 2018, 2019]
+('end station name', 'VARCHAR')
+[2013, 2014, 2015, 2016, 2017, 2018, 2019]
+('end station latitude', 'DOUBLE')
+[2013, 2014, 2015, 2016, 2017, 2018, 2019]
+('end station longitude', 'DOUBLE')
+[2013, 2014, 2015, 2016, 2017, 2018, 2019]
+('bikeid', 'BIGINT')
+[2013, 2014, 2015, 2016, 2017, 2018, 2019]
+('usertype', 'VARCHAR')
+[2013, 2014, 2015, 2016, 2017, 2018, 2019]
+('birth year', 'VARCHAR')
+[2013, 2014]
+('gender', 'BIGINT')
+[2013, 2014, 2015, 2016, 2017, 2018, 2019]
+('end station id', 'BIGINT')
+[2014, 2015, 2016, 2017]
+('birth year', 'DOUBLE')
+[2015, 2016, 2017]
+('start station id', 'DOUBLE')
+[2018, 2019]
+('birth year', 'BIGINT')
+[2018, 2019]
+('ride_id', 'VARCHAR')
+[2020, 2021, 2022, 2023, 2024, 2025]
+('rideable_type', 'VARCHAR')
+[2020, 2021, 2022, 2023, 2024, 2025]
+('started_at', 'VARCHAR')
+[2020, 2021, 2022, 2023, 2024, 2025]
+('ended_at', 'VARCHAR')
+[2020, 2021, 2022, 2023, 2024, 2025]
+('start_station_name', 'VARCHAR')
+[2020, 2021, 2022, 2023, 2024, 2025]
+('start_station_id', 'DOUBLE')
+[2020, 2021, 2022]
+('end_station_name', 'VARCHAR')
+[2020, 2021, 2022, 2023, 2024, 2025]
+('end_station_id', 'VARCHAR')
+[2020, 2021, 2022, 2023, 2024, 2025]
+('start_lat', 'DOUBLE')
+[2020, 2021, 2022, 2023, 2024, 2025]
+('start_lng', 'DOUBLE')
+[2020, 2021, 2022, 2023, 2024, 2025]
+('end_lat', 'DOUBLE')
+[2020, 2021, 2022, 2023, 2024, 2025]
+('end_lng', 'DOUBLE')
+[2020, 2021, 2022, 2023, 2024, 2025]
+('member_casual', 'VARCHAR')
+[2020, 2021, 2022, 2023, 2024, 2025]
+('start_station_id', 'VARCHAR')
+[2023, 2024, 2025]
+------------------------------------------------------------------
+jc_files
+('trip duration', 'BIGINT')
+[2015, 2016]
+('start time', 'VARCHAR')
+[2015, 2016]
+('stop time', 'VARCHAR')
+[2015, 2016]
+('start station id', 'BIGINT')
+[2015, 2016, 2017, 2018, 2019, 2020]
+('start station name', 'VARCHAR')
+[2015, 2016, 2017, 2018, 2019, 2020]
+('start station latitude', 'DOUBLE')
+[2015, 2016, 2017, 2018, 2019, 2020]
+('start station longitude', 'DOUBLE')
+[2015, 2016, 2017, 2018, 2019, 2020]
+('end station id', 'BIGINT')
+[2015, 2016, 2017, 2018, 2019, 2020]
+('end station name', 'VARCHAR')
+[2015, 2016, 2017, 2018, 2019, 2020]
+('end station latitude', 'DOUBLE')
+[2015, 2016, 2017, 2018, 2019, 2020]
+('end station longitude', 'DOUBLE')
+[2015, 2016, 2017, 2018, 2019, 2020]
+('bike id', 'BIGINT')
+[2015, 2016]
+('user type', 'VARCHAR')
+[2015, 2016]
+('birth year', 'BIGINT')
+[2015, 2016, 2017, 2018, 2019, 2020]
+('gender', 'BIGINT')
+[2015, 2016, 2017, 2018, 2019, 2020]
+('tripduration', 'BIGINT')
+[2017, 2018, 2019, 2020]
+('starttime', 'VARCHAR')
+[2017, 2018, 2019, 2020]
+('stoptime', 'VARCHAR')
+[2017, 2018, 2019, 2020]
+('bikeid', 'BIGINT')
+[2017, 2018, 2019, 2020]
+('usertype', 'VARCHAR')
+[2017, 2018, 2019, 2020]
+('ride_id', 'VARCHAR')
+[2021, 2022, 2023, 2024, 2025]
+('rideable_type', 'VARCHAR')
+[2021, 2022, 2023, 2024, 2025]
+('started_at', 'VARCHAR')
+[2021, 2022, 2023, 2024, 2025]
+('ended_at', 'VARCHAR')
+[2021, 2022, 2023, 2024, 2025]
+('start_station_name', 'VARCHAR')
+[2021, 2022, 2023, 2024, 2025]
+('start_station_id', 'VARCHAR')
+[2021, 2022, 2023, 2024, 2025]
+('end_station_name', 'VARCHAR')
+[2021, 2022, 2023, 2024, 2025]
+('end_station_id', 'VARCHAR')
+[2021, 2022, 2023, 2024, 2025]
+('start_lat', 'DOUBLE')
+[2021, 2022, 2023, 2024, 2025]
+('start_lng', 'DOUBLE')
+[2021, 2022, 2023, 2024, 2025]
+('end_lat', 'DOUBLE')
+[2021, 2022, 2023, 2024, 2025]
+('end_lng', 'DOUBLE')
+[2021, 2022, 2023, 2024, 2025]
+('member_casual', 'VARCHAR')
+[2021, 2022, 2023, 2024, 2025]
